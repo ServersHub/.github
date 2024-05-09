@@ -4,8 +4,6 @@
 
 <a href="https://gameservershub.com/forums">GameServersHub</a> intends to keep this project 100% open-sourced and accessible to the public; we fully intend to ensure that the project is maintained and supported for future releases of <a href="https://store.steampowered.com/app/346110/ARK_Survival_Evolved/">Ark Survival Evolved</a> game updates.<br>
 
-![Watermark](https://cdn.discordapp.com/attachments/952052223658033172/952618295499051128/logo.png)
-
 ## Direct Download:
 
 <b>Website:</b> https://gameservershub.com/forums/resources/ark-server-api.12/<br>
@@ -16,8 +14,6 @@
 
 - The API will only work on: Windows 7 and above or Windows Server 2008 and above operating systems.<br>
 - You need to install "<b>Microsoft Visual C++ 2019 Redistributable Package</b>" for the API to load correctly.<br><br>
-
-![ArkServerAPI](https://cdn.discordapp.com/attachments/952052223658033172/952060919192637440/style-logoq_light.png)
 
 ## API Installation Steps:
 
